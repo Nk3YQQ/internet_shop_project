@@ -1,0 +1,26 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 11,
+    "fields": {
+      "name": "Персональные компьютеры",
+      "content": "Ноутбуки, готовые ПК и т.д."
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 12,
+    "fields": {
+      "name": "Смартфоны",
+      "content": "Xiaomi, Apple, Honor и т.д."
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 13,
+    "fields": {
+      "name": "Планшеты",
+      "content": "Redmi, Mac и др."
+    }
+  }
+]
